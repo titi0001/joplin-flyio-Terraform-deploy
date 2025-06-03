@@ -12,4 +12,4 @@ ENV NODE_ENV=production
 # Expose com valor padrão
 EXPOSE 22300
 
-CMD ["node", "--max-old-space-size=2048", "packages/server/dist/app.js", "start"]
+CMD ["node", "--max-old-space-size=2048", "dist/app.js", "start"]
