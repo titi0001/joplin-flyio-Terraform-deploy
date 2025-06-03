@@ -1,4 +1,4 @@
-app = "joplin-server-titi"
+app = "joplin-flyio-terraform-deploy"
 primary_region = "gru"
 
 [build]
